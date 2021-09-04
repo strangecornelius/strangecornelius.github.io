@@ -1,2 +1,2 @@
 # strangecornelius.github.io
-general site
+This is a site containing general info available elsewhere.
